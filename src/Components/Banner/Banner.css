@@ -26,8 +26,8 @@
    }
 }
 .banner-content-one{
-   margin-top : -1.5%;
-   margin-left : 23%;
+   margin-top : -1.5%!important;
+   margin-left : 23%!important;
 }
 .banner-content-one .row{
   padding : 0!important;
