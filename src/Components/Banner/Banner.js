@@ -12,7 +12,7 @@ class Banner extends Component{
        banContentList : [{imgSrc : pageImg2,
                           text : "Sint occaecat cupidatat non proident"},
                           {imgSrc :pageImg3 ,
-                          text : "Occaecat cupidatat non \*<br />\*proident"},
+                          text : "Occaecat cupidatat non proident"},
                           {imgSrc : pageImg4,
                           text : "Lorem set sint occaecat cupid-atat non proident"}]
     }
@@ -46,7 +46,7 @@ class Banner extends Component{
               <img src={MAINIMG} alt = "img" className="img-fluid banner-head-img img-thumbnail"/>
            </div>
          <div className="banner-content-one">
-            <div className="row">
+            <div className="row mx-auto">
                 <div className="col-md-2 offset-md-3 banner-content-one-box banner-content-one-box-one">
                    <div className="banner-content-one-box-text banner-one">
                       <h1>Gift</h1>

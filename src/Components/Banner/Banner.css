@@ -25,6 +25,10 @@
       height : 0;
    }
 }
+.banner-content-one{
+   margin-top : -1.5%;
+   margin-left : 23%;
+}
 .banner-content-one .row{
   padding : 0!important;
   margin : 0!important;
