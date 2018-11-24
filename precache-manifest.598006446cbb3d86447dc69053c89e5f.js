@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/FoodDelivery/static/media/page-img-3.8bae60c2.jpg"
   },
   {
-    "revision": "62effce4480caf22e3ef",
-    "url": "/FoodDelivery/static/css/main.beeb0d3f.chunk.css"
+    "revision": "e2c07a430e2f84399772",
+    "url": "/FoodDelivery/static/css/main.138db930.chunk.css"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
@@ -36,8 +36,12 @@ self.__precacheManifest = [
     "url": "/FoodDelivery/static/media/page-img-2.15deaafa.jpg"
   },
   {
-    "revision": "62effce4480caf22e3ef",
-    "url": "/FoodDelivery/static/js/main.62effce4.chunk.js"
+    "revision": "e2c07a430e2f84399772",
+    "url": "/FoodDelivery/static/js/main.e2c07a43.chunk.js"
+  },
+  {
+    "revision": "298efd885039bd7e17e509d8b3e3f13e",
+    "url": "/FoodDelivery/static/media/bg-block.298efd88.png"
   },
   {
     "revision": "032499e928ba0a42795d50d71bc5bea8",
@@ -48,31 +52,27 @@ self.__precacheManifest = [
     "url": "/FoodDelivery/static/media/bg-block-2.448db51a.png"
   },
   {
-    "revision": "298efd885039bd7e17e509d8b3e3f13e",
-    "url": "/FoodDelivery/static/media/bg-block.298efd88.png"
-  },
-  {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/FoodDelivery/static/media/fontawesome-webfont.674f50d2.eot"
-  },
-  {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/FoodDelivery/static/media/fontawesome-webfont.af7ae505.woff2"
-  },
-  {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/FoodDelivery/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/FoodDelivery/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/FoodDelivery/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/FoodDelivery/static/media/fontawesome-webfont.b06871f2.ttf"
+  },
+  {
     "revision": "9dc9725584737ca7c7f6",
     "url": "/FoodDelivery/static/css/1.2404481d.chunk.css"
   },
   {
-    "revision": "08b5fb24c618625785ff1d601f6e5f43",
+    "revision": "cc37d11b0cb32e71b8ba1ed1493e9a98",
     "url": "/FoodDelivery/index.html"
   }
 ];

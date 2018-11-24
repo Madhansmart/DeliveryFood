@@ -1,7 +1,7 @@
 {
-  "main.css": "/FoodDelivery/static/css/main.beeb0d3f.chunk.css",
-  "main.js": "/FoodDelivery/static/js/main.62effce4.chunk.js",
-  "main.js.map": "/FoodDelivery/static/js/main.62effce4.chunk.js.map",
+  "main.css": "/FoodDelivery/static/css/main.138db930.chunk.css",
+  "main.js": "/FoodDelivery/static/js/main.e2c07a43.chunk.js",
+  "main.js.map": "/FoodDelivery/static/js/main.e2c07a43.chunk.js.map",
   "static/css/1.2404481d.chunk.css": "/FoodDelivery/static/css/1.2404481d.chunk.css",
   "static/js/1.9dc97255.chunk.js": "/FoodDelivery/static/js/1.9dc97255.chunk.js",
   "static/js/1.9dc97255.chunk.js.map": "/FoodDelivery/static/js/1.9dc97255.chunk.js.map",
@@ -11,12 +11,12 @@
   "static/media/page-img-1.jpg": "/FoodDelivery/static/media/page-img-1.20aef339.jpg",
   "static/media/page-img-2.jpg": "/FoodDelivery/static/media/page-img-2.15deaafa.jpg",
   "static/media/page-img-3.jpg": "/FoodDelivery/static/media/page-img-3.8bae60c2.jpg",
-  "static/media/Banner.css": "/FoodDelivery/static/media/bg-block.298efd88.png",
+  "static/media/Banner.css": "/FoodDelivery/static/media/bg-block-2.448db51a.png",
   "static/media/font-awesome.min.css": "/FoodDelivery/static/media/fontawesome-webfont.912ec66d.svg",
   "static/media/page-img.jpg": "/FoodDelivery/static/media/page-img.ebe514f7.jpg",
-  "static/css/main.beeb0d3f.chunk.css.map": "/FoodDelivery/static/css/main.beeb0d3f.chunk.css.map",
+  "static/css/main.138db930.chunk.css.map": "/FoodDelivery/static/css/main.138db930.chunk.css.map",
   "static/css/1.2404481d.chunk.css.map": "/FoodDelivery/static/css/1.2404481d.chunk.css.map",
   "index.html": "/FoodDelivery/index.html",
-  "precache-manifest.0a4595aee7da923715e6ca6bffdc66aa.js": "/FoodDelivery/precache-manifest.0a4595aee7da923715e6ca6bffdc66aa.js",
+  "precache-manifest.598006446cbb3d86447dc69053c89e5f.js": "/FoodDelivery/precache-manifest.598006446cbb3d86447dc69053c89e5f.js",
   "service-worker.js": "/FoodDelivery/service-worker.js"
 }
